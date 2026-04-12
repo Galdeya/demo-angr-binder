@@ -1,3 +1,0 @@
-angr
-claripy
-ipykernel
